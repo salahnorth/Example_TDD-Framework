@@ -5,9 +5,10 @@ In the “Exercise” section, I selected two different katas, katas 1 and 5 tha
 The assignment is commented within the code for better understanding on how the program works.
 
 # Folder Structure
-The workspace contains two folders by default, where:
+The workspace contains one folder which is the assignment folder that contains four folders, where:
 
 * src: the folder to maintain sources
+*      this folder contains the katas folders and their tests
 * lib: the folder to maintain dependencies
 * Meanwhile, the compiled output files will be generated in the bin folder by default.
 
