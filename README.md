@@ -7,6 +7,7 @@ The assignment is commented within the code for better understanding on how the 
 # Folder Structure
 The workspace contains one folder which is the assignment folder that contains four folders, where:
 
+*.vscode: the folder includes the settings.json file
 * src: the folder to maintain sources
 *      this folder contains the katas folders and their tests
 * lib: the folder to maintain dependencies
